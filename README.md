@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ssoftdesertt
+- 👋 Hi, I’m @ssoftdesertt (gabe)
 - 👀 I’m interested in many things from technology's role in art to complexity science. I'm curious about many things.
 - 🌱 I’m currently studying physics at Texas State University as a master's student. My thesis is in parametric amplification and thermal noise squeezing of mechanical resonators.
 - 💞️ I’m looking to collaborate on anything, really
